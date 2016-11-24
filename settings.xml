@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<players>
+<player>
+<name>vova</name>
+<decks>40</decks>
+<minBet>1</minBet>
+<maxBet>150</maxBet>
+<money>200</money>
+</player>
+
+<player>
+<name>vova</name>
+<decks>30</decks>
+<minBet>1</minBet>
+<maxBet>150</maxBet>
+<money>200</money>
+</player>
+    <player>
+        <name>vitaliy</name>
+        <decks>3</decks>
+        <minBet>5</minBet>
+        <maxBet>100</maxBet>
+        <money>100</money>
+    </player>
+    <player>
+        <name>vasya</name>
+        <decks>4</decks>
+        <minBet>10</minBet>
+        <maxBet>50</maxBet>
+        <money>200</money>
+    </player>
+    <player>
+        <name>petya</name>
+        <decks>4</decks>
+        <minBet>10</minBet>
+        <maxBet>50</maxBet>
+        <money>200</money>
+    </player>
+    <player>
+        <name>katya</name>
+        <decks>4</decks>
+        <minBet>10</minBet>
+        <maxBet>50</maxBet>
+        <money>200</money>
+    </player>
+    <player>
+        <name>andros</name>
+        <decks>7</decks>
+        <minBet>10</minBet>
+        <maxBet>100</maxBet>
+        <money>200</money>
+    </player>
+</players>
+

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.40-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.14.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:annotation>
+    <xsd:documentation xml:lang="ru">
+		БлаБлаБла
+    </xsd:documentation>
+  </xsd:annotation>
+  <xsd:element name='xml.Dog' type='DogType'/>
+  <xsd:complexType name='DogType'>
+   <xsd:sequence>
+  <xsd:element name="name" type='xsd:string'/>
+   </xsd:sequence>
+</xsd:complexType>
+</xsd:schema>
