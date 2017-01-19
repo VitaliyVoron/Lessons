@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f956c9f2-4c30-4a14-9070-de6a31fc0ae5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework04/TwoString02.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework04/TwoString02.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework04/TwoStrings.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework04/TwoStrings.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework06/TypeDistributor.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework06/TypeDistributor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/Connector.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/Connector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/ControllerShapes.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/ControllerShapes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/ShapeFactoryMain.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework11shapes/ShapeFactoryMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework14JSPShapes/Connector.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework14JSPShapes/Connector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework14JSPShapes/ShapeFactoryMain.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework14JSPShapes/ShapeFactoryMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework15ShapesGUI/ShapeFactoryMain.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework15ShapesGUI/ShapeFactoryMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework9Pudge/PudgeMain.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework9Pudge/PudgeMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework9Pudge/WorkWithDBPudge.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/homework9Pudge/WorkWithDBPudge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/ua/itea/test/TimeSpend.class" afterPath="$PROJECT_DIR$/out/production/Lessons/ua/itea/test/TimeSpend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="0c08f720-1dfb-4178-9819-bb1804eacbe0" name="Failed commit: Default" comment="some changes">
@@ -183,6 +169,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -746,12 +764,20 @@
       <workItem from="1484305343158" duration="1273000" />
       <workItem from="1484391372957" duration="1359000" />
       <workItem from="1484757001817" duration="4712000" />
-      <workItem from="1484813063719" duration="532000" />
+      <workItem from="1484813063719" duration="634000" />
     </task>
+    <task id="LOCAL-00001" summary="some changes">
+      <created>1484813604024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484813604024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34427000" />
+    <option name="totallyTimeSpent" value="34529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1033,14 +1059,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/itea/homework11ShapesFactoryConsole/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/itea/homework11ShapesFactoryConsole/Color.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1197,6 +1215,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/itea/homework11ShapesFactoryConsole/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
